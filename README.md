@@ -1,3 +1,4 @@
 <p align="center">
-<img src="fisheye.jpg" alt="Fisheye Bow" width="100">
+  <img src="heart-vinyl.png" width="250" alt="Heart-shaped vinyl record">
+</p>
   <br><br>
